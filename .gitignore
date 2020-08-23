@@ -1,0 +1,4 @@
+*.txt
+test_gcc
+test_clang
+!.gitignore
